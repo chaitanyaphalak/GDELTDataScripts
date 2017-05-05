@@ -1,0 +1,100 @@
+Type,Name,Date Added,Modified History,Description
+Count,AFFECT,10/13/2013,10/13/2013," Everything from being sickened to refugees, evacuations, displaced persons, stranded, etc"
+Theme,AGRICULTURE,10/13/2013,10/13/2013,General discussion of agriculture
+Theme,ALLIANCE,5/18/2014,5/18/2014,Self-identified discussion of alliances and coalitions
+Theme,ARMEDCONFLICT,10/13/2013,10/13/2013,"Primary discussion of armed conflict, from ground assaults to air raids"
+Count,ARREST,10/13/2013,10/13/2013,"Discussion of someone being arrested, detained, jailed, imprisoned, etc"
+Theme,CEASEFIRE,10/13/2013,10/13/2013,"Mentions of ceasefires, truces, peace deals, suspension of hostilities, etc"
+Theme,CONSTITUTIONAL,10/13/2013,10/13/2013,Discussion of constitutionalism
+Theme,CORRUPTION,10/13/2013,10/13/2013,"Corruption, kickbacks, embezzling, profiteering, etc"
+Theme,CRIME_ILLEGAL_DRUGS,10/13/2013,10/13/2013,Mentions of illegal drugs
+Theme,CYBER_ATTACK,10/13/2013,10/13/2013,"Any discussion of cyberwarfare, cyberattacks, phishing, hacking, hacktivists, viruses, etc"
+Theme,DEMOCRACY,10/13/2013,10/13/2013,"Actual mention of the term ""democracy"""
+Theme,DISABILITY,2/20/2014,2/20/2014,"Disability, disabled, handicapped."
+Theme,DISCRIMINATION,10/13/2013,10/13/2013,"Racism, homophobia, xenophobia, etc"
+Count,DISPLACED,10/25/2013,10/25/2013,"This category counts mentions of people being displaced - see REFUGEES for counts of refugees, forced migration, and related"
+Theme,DRUG_TRADE,10/13/2013,10/13/2013,General discussion of the drug trade in broad terms - broader than the other categories
+Theme,ECON_COST_OF_LIVING,10/13/2013,10/13/2013,"Explicit mention of ""cost of living"", ""median wage"", etc"
+Theme,ECON_ENTREPRENEURSHIP,10/13/2013,10/13/2013,"Entrepreneurship, venture capital, seed funding, angel investors, etc"
+Theme,EDUCATION,10/13/2013,10/13/2013,"Teachers, schools, madrassas, yeshivas, professors, education in general"
+Theme,ENV_CLIMATECHANGE,10/13/2013,10/13/2013,Discussion of climate change and global warming
+Theme,ENV_GREEN,10/13/2013,10/13/2013,"Green, renewable, and alternative energy"
+Theme,EXTREMISM,10/13/2013,10/13/2013,"Discussion of extremists, both political (farright/farleft/anarchist), groups like skinheads, and terms like zealot, ""fringe element"", etc"
+Theme,FOOD_SECURITY,10/13/2013,10/13/2013,"Famine, food crisis, malnourishment, food prices"
+Theme,FOOD_STAPLE,11/27/2013,11/27/2013,"Captures explicit mention of terms like ""food staple"""
+Theme,FREESPEECH,10/13/2013,10/13/2013,Freedom of speech
+Theme,GEN_HOLIDAY,10/1/2014,10/1/2014,General discussion of holidays
+Theme,GENDER_VIOLENCE,11/4/2013,11/4/2013,Gender violence
+Theme,GENERAL_GOVERNMENT,10/13/2013,10/13/2013,"General discussion of government, congress, parliament, republic, regime, etc"
+Theme,GENERAL_HEALTH,10/13/2013,10/13/2013,"Any general discussion of human, animal, plant, etc health, from hygiene to hospitals, doctors to disease"
+Theme,HUMAN_TRAFFICKING,10/13/2013,10/13/2013,"Human trafficking, sexual slavery, prostitution, human smuggling, etc"
+Theme,IDEOLOGY,5/22/2014,5/22/2014,Self-identified discussion of ideology
+Theme,IMMIGRATION,10/13/2013,10/13/2013,Discussion of immigration
+Theme,IMPEACHMENT,10/13/2013,10/13/2013,Impeachment
+Theme,JIHAD,10/13/2013,10/13/2013,"Actual mentions of ""jihad"" and ""holy war"""
+Count,KIDNAP,10/13/2013,10/13/2013,"Someone being kidnapped, abducted, hostages, etc"
+Count,KILL,10/13/2013,10/13/2013,Any mention of something dying
+Theme,LEADER,10/13/2013,10/13/2013,"Political elites, such as lawmakers, presidents, supreme leaders, etc"
+Theme,LEGALIZE,10/13/2013,10/13/2013,"Something being legalized, laws being repealed, etc"
+Theme,LEGISLATION,10/13/2013,10/13/2013,Discussion of laws
+Theme,LGBT,11/4/2013,11/4/2013,"Lesbian, Gay, Bisexual, and Transgender discussion"
+Theme,LITERACY,10/13/2013,10/13/2013,Discussion of literacy and illiteracy
+Theme,MEDIA_CENSORSHIP,10/13/2013,10/13/2013,"Censorship of the mainstream media, such as arresting journalists, press freedoms, etc"
+Theme,MEDIA_MSM,10/13/2013,10/13/2013,"Any mention of mainstream media such as television, reporter, journalist, etc.  Often flags just a mention of a ""reporter"", but can be used to capture discussion of MSM overall"
+Theme,MEDIA_SOCIAL,10/13/2013,10/13/2013,"Any mention of social media such as Facebook, Twitter, etc.  Often flags mentions of ""follow me on twitter"", but useful proxy for discussion of social media"
+Theme,MILITARY,10/13/2013,10/13/2013,General discussion of the military
+Theme,MILITARY_COOPERATION,10/13/2013,10/13/2013,"Actual mentions of military ties, military aid, defense cooperation, etc (where the text explicitly labels it as such)"
+Theme,MOVEMENT_GENERAL,11/4/2013,11/4/2013,"General discussion of movements, activists, etc"
+Theme,MOVEMENT_OTHER,11/4/2013,11/4/2013,"Catchall for movements such as equality movements, religious movements, youth movements, labor movements, etc"
+Theme,MOVEMENT_SOCIAL,11/4/2013,11/4/2013,General discussion of social-related movements
+Theme,MOVEMENT_WOMENS,11/4/2013,11/4/2013,Women-specific movements
+Theme,PEACEKEEPING,10/13/2013,10/13/2013,"Mentions of peacekeepers, UN forces, etc"
+Theme,PIRACY,10/13/2013,10/13/2013,"Piracy, hijacking, etc (but not software/music/etc piracy)"
+Theme,POLITICAL_PRISONER,10/13/2013,10/13/2013,Explicit mention of political prisoners or labor camps
+Theme,POLITICAL_TURMOIL,10/13/2013,10/13/2013,"Discussion of major unrest such as martial law, political ""crisis"", state of emergency, violent supression, etc."
+Theme,POPULATION_DENSITY,5/17/2014,5/17/2014,Population density
+Theme,POVERTY,10/13/2013,10/13/2013,"Poverty, homeless, destitute"
+Theme,PROPERTY_RIGHTS,10/13/2013,10/13/2013,"Discussion of property rights, land tenure, eminent domain, land confiscation"
+Count,PROTEST,10/13/2013,10/13/2013,"Discussion of protesting, demonstrating, rioting, striking, activists, agitators, etc"
+Theme,RAIL_INCIDENT,2/20/2014,2/20/2014,"Train accidents, derailments, etc."
+Theme,REBELLION,10/13/2013,10/13/2013,"Mutinies, uprisings, civil war, etc"
+Count,REFUGEES,10/13/2013,10/13/2013,"Refugees, displaced persons, forced migration, asylum seekers"
+Theme,REL_ANTISEMITISM,10/1/2014,10/1/2014,Anti-semitism
+Theme,RELATIONS,10/13/2013,10/13/2013,"Narrow focus on ""improving relations"", ""restarting talks"", ""bilateral talks"", etc"
+Theme,RELEASE_HOSTAGE,10/13/2013,10/13/2013,A hostage being released
+Theme,RETALIATE,10/13/2013,10/13/2013,"Actual mentions of ""reprisals"", ""avenge"", ""strike back"", etc"
+Theme,SCIENCE,10/13/2013,10/13/2013,"Just mentions of scientist, researcher, invention, innovation, scientific discovery, etc"
+Theme,SECURITY_SERVICES,10/13/2013,10/13/2013,"Discussion of primarily internal security services like police, law enforcement, secret police, and also peacekeepers"
+Count,SEIZE,10/13/2013,10/13/2013,"Something being seized (often drugs, illegal materials, etc)"
+Theme,SELF_IDENTIFIED_ATROCITY,10/13/2013,10/13/2013,"Only captures atrocities identified as such in the text (atrocity, genocide, war crime, etc), not actions that could be construed as a crime, but where the text does not draw that distinction"
+Theme,SELF_IDENTIFIED_HUMAN_RIGHTS,10/13/2013,10/13/2013,"Mentions of ""human rights"", ""political freedom"", ""religious freedom"", ""freedom of speech"", etc - only explicit mentions where the text explicitly identified a human rights issue"
+Theme,SELF_IDENTIFIED_HUMANITARIAN_CRISIS,10/13/2013,10/13/2013,"Humanitarian crises, aid, disasters, disaster relief, etc"
+Theme,SEPARATISTS,5/13/2014,5/13/2014,Self-identified discussion of separatists
+Theme,SLFID_CAPACITY_BUILDING,5/1/2014,5/1/2014,Self-identified discussion of capacity building
+Theme,SLFID_CIVIL_LIBERTIES,4/29/2014,4/29/2014,Self-identified discussion of civil liberties
+Theme,SLFID_DICTATORSHIP,4/28/2014,4/28/2014,Self-identified discussion of dictatorship
+Theme,SLFID_ECONOMIC_DEVELOPMENT,4/30/2014,4/30/2014,Self-identified discussion of economic development
+Theme,SLFID_ECONOMIC_POWER,4/24/2014,4/24/2014,Self-identified discussion of economic power
+Theme,SLFID_RULE_OF_LAW,5/9/2014,5/9/2014,Self-identified discussion of rule of law
+Theme,SMUGGLING,11/4/2013,11/4/2013,"Smuggling of anything, including arms traficking"
+Theme,SOC_DIPLOMCOOP,10/1/2014,10/1/2014,Diplomatic cooperation
+Theme,SOC_JUDICIALCOOP,10/1/2014,10/1/2014,Judicial cooperation
+Theme,SOC_TRAFFICACCIDENT,10/1/2014,10/1/2014,Traffic accidents
+Theme,SOVEREIGNTY,10/13/2013,10/13/2013,"Actual mentions of ""sovereignty"", ""proclaim independence"", ""independent state"", etc"
+Theme,STRIKE,10/13/2013,10/13/2013,"Strikes, work stoppages, lock outs, etc"
+Theme,SUICIDE_ATTACK,10/13/2013,10/13/2013,Suicide attacks
+Theme,SURVEILLANCE,2/20/2014,2/20/2014,"Surveillance, spying."
+Taxonomy,TAX_TERROR_GROUP,10/13/2013,10/13/2013,Returns any mention of a major recognized terror group around the world
+Theme,TERROR,10/13/2013,10/13/2013,"Primary discussion of terrorists, bombings, assasinations, etc"
+Theme,TOURISM,10/13/2013,10/13/2013,"Actual mentions of ""tourism"", ""tourists"", etc, not related terms"
+Theme,TRAFFIC,2/20/2014,2/20/2014,Road traffic.
+Theme,TREASON,10/13/2013,10/13/2013,"Treason, sedition, insurrection."
+Theme,TRIAL,10/13/2013,10/13/2013,"Trail, courts, judges, lawyers, lawsuits, etc"
+Theme,UNREST_CLOSINGBORDER,10/1/2014,10/1/2014,Closing borders
+Theme,UNREST_HUNGERSTRIKE,10/1/2014,10/1/2014,Hunger strikes
+Theme,UNREST_POLICEBRUTALITY,10/1/2014,10/1/2014,Police brutality
+Theme,UNSAFE_WORK_ENVIRONMENT,2/20/2014,2/20/2014,"Work injuries, killed on the job, working conditions, etc."
+Theme,VIOLENT_UNREST,10/13/2013,10/13/2013,"Discussion of violent unrest, from rubber bullets, firing into a crowd, clashes with police or soldiers, violent rioting, etc"
+Theme,WATER_SECURITY,10/13/2013,10/13/2013,"Drought, water access, lack of rain, clean water, etc"
+Theme,WMD,10/13/2013,10/13/2013,"Weapons of mass distruction, from nuclear to biological to chemical warfare"
+Count,WOUND,10/13/2013,10/13/2013,Any mention of something being wounded or injured
